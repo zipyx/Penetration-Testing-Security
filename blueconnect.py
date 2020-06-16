@@ -1,6 +1,6 @@
 import bluetooth
 
-# We will have to insert MAC address and port of victim in variables below
+# We will have to insert MAC address and port of person in variables below
 
 tgtPhone = "B0:C5:59:32:79:D2"
 port = ''
